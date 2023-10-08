@@ -1,6 +1,17 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2580
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-}
+### Background
+
+This project is part of the Data Science program at TripleTen. More info in the link below:
+
+https://tripleten.com/data-science/
+
+### Project Setup
+
+### Project Instructions
+
+
+### Data Description
+
+
+### Conclusion
+
+### Technologies Used
