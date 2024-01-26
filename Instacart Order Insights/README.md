@@ -126,7 +126,7 @@ Analysis of the Instacart dataset reveals the following insights:
 - **First Item in Cart**:
   - **Bananas (regular and organic)** are the most frequently first-added items to carts, indicating their high popularity.
 
-These findings offer valuable insights into customer behaviors and preferences, which is crucial for developing **targeted marketing strategies and effective inventory management**.
+These findings offer valuable insights into customer behaviors and preferences, which are crucial for developing **targeted marketing strategies and effective inventory management**.
 
 ### Technologies Used
 
