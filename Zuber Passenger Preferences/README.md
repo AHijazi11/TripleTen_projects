@@ -63,10 +63,10 @@ project_sql_result_07.csv — the result of the last query. It contains data on 
 
 This project was broken out into three parts: 
 
-1) Parsing Data
+1) [Parsing Data](https://github.com/AHijazi11/TripleTen_projects/blob/main/Zuber%20Passenger%20Preferences/parsing_data.py)
     - Developing code to parse through data on weather conditions from a website
     - Leveraging libraries for sending requests to a server and for webpage parsing (`requests` and `bs4 - BeautifulSoup`)
-2) Working with Databases
+2) [Working with Databases](https://github.com/AHijazi11/TripleTen_projects/blob/main/Zuber%20Passenger%20Preferences/SQL_Queries.md)
     - Retrieving data using SQL (leveraging operators like `Case`, `Inner Join`, and `Extract`) to later perform exploratory data analysis and test the hypothesis
 3) Exploratory data analysis and hypothesis testing using Python
 
